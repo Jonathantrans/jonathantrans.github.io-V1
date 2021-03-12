@@ -6005,7 +6005,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #004daa !important;
+  background-color: #800020 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -10169,7 +10169,7 @@ form .row:first-child .floating-label-form-group {
   align-items: center;
   justify-content: center;
   font-size: 2rem;
-  background-color: #0063b2;
+  background-color: #800020;
   color: #fff;
   border-radius: 100%;
 }
