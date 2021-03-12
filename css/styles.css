@@ -9972,7 +9972,7 @@ h3 {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #940025;
+  color: #262424;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -9998,7 +9998,7 @@ h3 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #940025;
+    background: #262424;
   }
 
   #mainNav.navbar-shrink {
