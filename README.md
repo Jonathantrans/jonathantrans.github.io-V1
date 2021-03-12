@@ -1,2 +1,2 @@
 # 
-Welcome and thank you for coming to visit my page. It is my best interest to introduce myself to my fellow students, professors, workers, and recruiters through my great achievements of challenging and fun projects, as well as my personality! 
+Thank you for taking the time to visit my website. It is in my best interest to introduce myself to my teachers, colleagues, and recruiters by showcasing my excellent accomplishments in demanding and enjoyable projects, as well as my personality! I hope you enjoy your stay.
