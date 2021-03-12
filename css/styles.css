@@ -9994,11 +9994,11 @@ h3 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #0063b2;
+    background: #800020;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #0063b2;
+    background: #800020;
   }
 
   #mainNav.navbar-shrink {
@@ -10077,7 +10077,7 @@ h3 {
   top: 1rem;
   font-size: 3rem;
   line-height: 3rem;
-  color: #0063b2;
+  color: #800020;
   opacity: 1;
 }
 
@@ -10123,7 +10123,7 @@ h3 {
 }
 
 .floating-label-form-group-with-focus label {
-  color: #0063b2;
+  color: #800020;
 }
 
 form .row:first-child .floating-label-form-group {
