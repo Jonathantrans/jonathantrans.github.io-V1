@@ -6001,11 +6001,11 @@ a.close.disabled {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #78adc6 !important;
+  background-color: #111111 !important;
 }
 
 .bg-secondary {
-  background-color: #004daa !important;
+  background-color: #111111 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -6015,7 +6015,7 @@ button.bg-secondary:focus {
 }
 
 .bg-success {
-  background-color: #28a745 !important;
+  background-color: #111111 !important;
 }
 
 a.bg-success:hover, a.bg-success:focus,
