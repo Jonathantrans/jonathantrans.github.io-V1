@@ -19,10 +19,10 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #0063b2;
-  --secondary: #004daa;
+  --primary: #800020;
+  --secondary: #a6022b;
   --success: #28a745;
-  --info: #17a2b8;
+  --info: #a6022b;
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #f8f9fa;
@@ -152,12 +152,12 @@ sup {
 }
 
 a {
-  color: #0063b2;
+  color: #800020;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #66a2be;
+  color: #800020;
   text-decoration: underline;
 }
 
