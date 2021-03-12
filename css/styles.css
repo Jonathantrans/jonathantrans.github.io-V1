@@ -152,12 +152,12 @@ sup {
 }
 
 a {
-  color: #0063b2;
+  color: #282828;
   text-decoration: none;
   background-color: transparent;
 }
 a:hover {
-  color: #66a2be;
+  color: #282828;
   text-decoration: underline;
 }
 
@@ -1717,7 +1717,7 @@ pre code {
 }
 
 .table-hover tbody tr:hover {
-  color: #D1CDC7;
+  color: #282828;
   background-color: rgba(0, 0, 0, 0.075);
 }
 
@@ -1730,115 +1730,115 @@ pre code {
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #cce0e9;
+  border-color: #282828;
 }
 
 .table-hover .table-primary:hover {
-  background-color: #d1e3eb;
+  background-color: #282828;
 }
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #d1e3eb;
+  background-color: #282828;
 }
 
 .table-secondary,
 .table-secondary > th,
 .table-secondary > td {
-  background-color: #b8d3e9;
+  background-color: #282828;
 }
 .table-secondary th,
 .table-secondary td,
 .table-secondary thead th,
 .table-secondary tbody + tbody {
-  border-color: #7aaed7;
+  border-color: #282828;
 }
 
 .table-hover .table-secondary:hover {
-  background-color: #a5c7e3;
+  background-color: #282828;
 }
 .table-hover .table-secondary:hover > td,
 .table-hover .table-secondary:hover > th {
-  background-color: #a5c7e3;
+  background-color: #282828;
 }
 
 .table-success,
 .table-success > th,
 .table-success > td {
-  background-color: #c3e6cb;
+  background-color: #282828;
 }
 .table-success th,
 .table-success td,
 .table-success thead th,
 .table-success tbody + tbody {
-  border-color: #8fd19e;
+  border-color: #282828;
 }
 
 .table-hover .table-success:hover {
-  background-color: #b1dfbb;
+  background-color: #282828;
 }
 .table-hover .table-success:hover > td,
 .table-hover .table-success:hover > th {
-  background-color: #b1dfbb;
+  background-color: #282828;
 }
 
 .table-info,
 .table-info > th,
 .table-info > td {
-  background-color: #bee5eb;
+  background-color: #282828;
 }
 .table-info th,
 .table-info td,
 .table-info thead th,
 .table-info tbody + tbody {
-  border-color: #86cfda;
+  border-color: #282828;
 }
 
 .table-hover .table-info:hover {
-  background-color: #abdde5;
+  background-color: #282828;
 }
 .table-hover .table-info:hover > td,
 .table-hover .table-info:hover > th {
-  background-color: #abdde5;
+  background-color: #282828;
 }
 
 .table-warning,
 .table-warning > th,
 .table-warning > td {
-  background-color: #ffeeba;
+  background-color: #282828;
 }
 .table-warning th,
 .table-warning td,
 .table-warning thead th,
 .table-warning tbody + tbody {
-  border-color: #ffdf7e;
+  border-color: #282828;
 }
 
 .table-hover .table-warning:hover {
-  background-color: #ffe8a1;
+  background-color: #282828;
 }
 .table-hover .table-warning:hover > td,
 .table-hover .table-warning:hover > th {
-  background-color: #ffe8a1;
+  background-color: #282828;
 }
 
 .table-danger,
 .table-danger > th,
 .table-danger > td {
-  background-color: #f5c6cb;
+  background-color: #282828;
 }
 .table-danger th,
 .table-danger td,
 .table-danger thead th,
 .table-danger tbody + tbody {
-  border-color: #ed969e;
+  border-color: #282828;
 }
 
 .table-hover .table-danger:hover {
-  background-color: #f1b0b7;
+  background-color: #282828;
 }
 .table-hover .table-danger:hover > td,
 .table-hover .table-danger:hover > th {
-  background-color: #f1b0b7;
+  background-color: #282828;
 }
 
 .table-light,
@@ -9966,13 +9966,13 @@ h3 {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #96BFD2;
+  color: #282828;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #0063b2;
+  color: #282828;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
@@ -9994,11 +9994,11 @@ h3 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #0063b2;
+    background: #282828;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #0063b2;
+    background: #282828;
   }
 
   #mainNav.navbar-shrink {
