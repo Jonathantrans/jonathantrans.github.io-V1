@@ -61,7 +61,7 @@ body {
   line-height: 1.5;
   color: #D1CDC7;
   text-align: left;
-  background-color: #202324;
+  background-color: #282828;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -429,7 +429,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #282828;
 }
 
 .list-unstyled {
@@ -475,7 +475,7 @@ mark,
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #fff;
+  background-color: #282828;
   border: 0.125rem solid #dee2e6;
   border-radius: 0.5rem;
   max-width: 100%;
@@ -1724,7 +1724,7 @@ pre code {
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #e3eef3;
+  background-color: #282828;
 }
 .table-primary th,
 .table-primary td,
@@ -1844,41 +1844,41 @@ pre code {
 .table-light,
 .table-light > th,
 .table-light > td {
-  background-color: #fdfdfe;
+  background-color: #282828;
 }
 .table-light th,
 .table-light td,
 .table-light thead th,
 .table-light tbody + tbody {
-  border-color: #fbfcfc;
+  border-color: #282828;
 }
 
 .table-hover .table-light:hover {
-  background-color: #ececf6;
+  background-color: #282828;
 }
 .table-hover .table-light:hover > td,
 .table-hover .table-light:hover > th {
-  background-color: #ececf6;
+  background-color: #282828;
 }
 
 .table-dark,
 .table-dark > th,
 .table-dark > td {
-  background-color: #c6c8ca;
+  background-color: #282828;
 }
 .table-dark th,
 .table-dark td,
 .table-dark thead th,
 .table-dark tbody + tbody {
-  border-color: #95999c;
+  border-color: #282828;
 }
 
 .table-hover .table-dark:hover {
-  background-color: #b9bbbe;
+  background-color: #282828;
 }
 .table-hover .table-dark:hover > td,
 .table-hover .table-dark:hover > th {
-  background-color: #b9bbbe;
+  background-color: #282828;
 }
 
 .table-active,
@@ -1898,22 +1898,22 @@ pre code {
 .table .thead-dark th {
   color: #fff;
   background-color: #343a40;
-  border-color: #454d55;
+  border-color: #282828;
 }
 .table .thead-light th {
-  color: #495057;
-  background-color: #e9ecef;
-  border-color: #dee2e6;
+  color: #282828;
+  background-color: #282828;
+  border-color: #282828;
 }
 
 .table-dark {
-  color: #fff;
-  background-color: #343a40;
+  color: #282828;
+  background-color: #282828;
 }
 .table-dark th,
 .table-dark td,
 .table-dark thead th {
-  border-color: #454d55;
+  border-color: #282828;
 }
 .table-dark.table-bordered {
   border: 0;
@@ -1989,7 +1989,7 @@ pre code {
   font-weight: 400;
   line-height: 1.5;
   color: #495057;
-  background-color: #fff;
+  background-color: #282828;
   background-clip: padding-box;
   border: 0.125rem solid #ced4da;
   border-radius: 0.5rem;
@@ -2009,8 +2009,8 @@ pre code {
   text-shadow: 0 0 0 #495057;
 }
 .form-control:focus {
-  color: #495057;
-  background-color: #fff;
+  color: #282828;
+  background-color: #282828;
   border-color: #f6f9fb;
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(156, 195, 213, 0.25);
@@ -5396,7 +5396,7 @@ a.close.disabled {
   flex-direction: column;
   width: 100%;
   pointer-events: auto;
-  background-color: #0063b2;
+  background-color: #282828;
   background-clip: padding-box;
   border: 0 solid rgba(0, 0, 0, 0.2);
   border-radius: 0.75rem;
@@ -6051,31 +6051,31 @@ button.bg-warning:focus {
 a.bg-danger:hover, a.bg-danger:focus,
 button.bg-danger:hover,
 button.bg-danger:focus {
-  background-color: #bd2130 !important;
+  background-color: #282828 !important;
 }
 
 .bg-light {
-  background-color: #f8f9fa !important;
+  background-color: #282828 !important;
 }
 
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
 button.bg-light:focus {
-  background-color: #dae0e5 !important;
+  background-color: #282828 !important;
 }
 
 .bg-dark {
-  background-color: #343a40 !important;
+  background-color: #282828 !important;
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
 button.bg-dark:focus {
-  background-color: #1d2124 !important;
+  background-color: ##282828 !important;
 }
 
 .bg-white {
-  background-color: #fff !important;
+  background-color: #282828 !important;
 }
 
 .bg-transparent {
@@ -9853,7 +9853,7 @@ h3 {
   }
   .table td,
 .table th {
-    background-color: #fff !important;
+    background-color: #282828 !important;
   }
 
   .table-bordered th,
@@ -9901,7 +9901,7 @@ h3 {
   width: 100%;
   max-width: 7rem;
   height: 0.25rem;
-  background-color: #004daa;
+  background-color: #282828;
   border-radius: 1rem;
   border-color: #004daa !important;
 }
