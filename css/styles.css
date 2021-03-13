@@ -9726,7 +9726,7 @@ a.text-danger:hover, a.text-danger:focus {
 }
 
 a.text-light:hover, a.text-light:focus {
-  color: #cbd3da !important;
+  color: #3d3d3d !important;
 }
 
 .text-dark {
@@ -9858,7 +9858,7 @@ h3 {
 
   .table-bordered th,
 .table-bordered td {
-    border: 1px solid #dee2e6 !important;
+    border: 1px solid #3d3d3d !important;
   }
 
   .table-dark {
@@ -9868,12 +9868,12 @@ h3 {
 .table-dark td,
 .table-dark thead th,
 .table-dark tbody + tbody {
-    border-color: #dee2e6;
+    border-color: #3d3d3d;
   }
 
   .table .thead-dark th {
     color: inherit;
-    border-color: #dee2e6;
+    border-color: #3d3d3d;
   }
 }
 .page-section {
@@ -9903,7 +9903,7 @@ h3 {
   height: 0.25rem;
   background-color: #004daa;
   border-radius: 1rem;
-  border-color: #004daa !important;
+  border-color: #800020 !important;
 }
 .divider-custom .divider-custom-line:first-child {
   margin-right: 1rem;
@@ -9912,7 +9912,7 @@ h3 {
   margin-left: 1rem;
 }
 .divider-custom .divider-custom-icon {
-  color: #004daa !important;
+  color: #800020 !important;
   font-size: 2rem;
 }
 .divider-custom.divider-light .divider-custom-line {
