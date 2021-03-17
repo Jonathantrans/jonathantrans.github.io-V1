@@ -5995,7 +5995,7 @@ a.close.disabled {
 }
 
 . -primary {
-  background-color: #00000f !important;
+  background-color: #000000 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
