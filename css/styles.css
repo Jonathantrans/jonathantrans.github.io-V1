@@ -2461,8 +2461,8 @@ fieldset:disabled a.btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: #004daa;
-  border-color: #004daa;
+  background-color: #800026;
+  border-color: #800026;
 }
 .btn-secondary:hover {
   color: #fff;
@@ -2707,13 +2707,13 @@ fieldset:disabled a.btn {
   box-shadow: 0 0 0 0.2rem rgba(0, 99, 178, 0.5);
 }
 .btn-outline-secondary.disabled, .btn-outline-secondary:disabled {
-  color: #004daa;
+  color: #800026;
   background-color: transparent;
 }
 .btn-outline-secondary:not(:disabled):not(.disabled):active, .btn-outline-secondary:not(:disabled):not(.disabled).active, .show > .btn-outline-secondary.dropdown-toggle {
   color: #fff;
-  background-color: #004daa;
-  border-color: #004daa;
+  background-color: #800026;
+  border-color: #800026;
 }
 .btn-outline-secondary:not(:disabled):not(.disabled):active:focus, .btn-outline-secondary:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-secondary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(0, 99, 178, 0.5);
@@ -3784,7 +3784,7 @@ input[type=button].btn-block {
   margin-top: 0;
   margin-right: 0.2rem;
   margin-left: 0.2rem;
-  background-color: #0063b2;
+  background-color: #800026;
   border: 0;
   border-radius: 1rem;
   transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
