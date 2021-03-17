@@ -6123,11 +6123,11 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #0063b2 !important;
+  border-color: #800020 !important;
 }
 
 .border-secondary {
-  border-color: #004daa !important;
+  border-color: #800020 !important;
 }
 
 .border-success {
@@ -9901,7 +9901,7 @@ h3 {
   width: 100%;
   max-width: 7rem;
   height: 0.25rem;
-  background-color: #004daa;
+  background-color: #800020;
   border-radius: 1rem;
   border-color: #800020 !important;
 }
