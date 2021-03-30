@@ -4863,9 +4863,9 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .alert-light {
-  color: #818182;
+  color: #828181;
   background-color: #fefefe;
-  border-color: #fdfdfe;
+  border-color: #fefdfd;
 }
 .alert-light hr {
   border-top-color: #ececf6;
@@ -4876,14 +4876,14 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .alert-dark {
   color: #1b1e21;
-  background-color: #d6d8d9;
-  border-color: #c6c8ca;
+  background-color: #d9d6d6;
+  border-color: #cac6c6;
 }
 .alert-dark hr {
-  border-top-color: #b9bbbe;
+  border-top-color: #beb9b9;
 }
 .alert-dark .alert-link {
-  color: #040505;
+  color: #050404;
 }
 
 @keyframes progress-bar-stripes {
@@ -5132,31 +5132,31 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .list-group-item-primary {
-  color: #51656f;
-  background-color: #e3eef3;
+  color: #6f5151;
+  background-color: #f3e3e3;
 }
 .list-group-item-primary.list-group-item-action:hover, .list-group-item-primary.list-group-item-action:focus {
-  color: #51656f;
-  background-color: #d1e3eb;
+  color: #6f5151;
+  background-color: #ebd1d1;
 }
 .list-group-item-primary.list-group-item-action.active {
   color: #fff;
-  background-color: #51656f;
-  border-color: #51656f;
+  background-color: #6f5151;
+  border-color: #6f5151;
 }
 
 .list-group-item-secondary {
-  color: #00335d;
-  background-color: #b8d3e9;
+  color: #5d0000;
+  background-color: #e9b8b8;
 }
 .list-group-item-secondary.list-group-item-action:hover, .list-group-item-secondary.list-group-item-action:focus {
-  color: #00335d;
-  background-color: #a5c7e3;
+  color: #5d0000;
+  background-color: #e3a5a5;
 }
 .list-group-item-secondary.list-group-item-action.active {
   color: #fff;
-  background-color: #00335d;
-  border-color: #00335d;
+  background-color: #5d0000;
+  border-color: #5d0000;
 }
 
 .list-group-item-success {
@@ -5174,17 +5174,17 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .list-group-item-info {
-  color: #0c5460;
-  background-color: #bee5eb;
+  color: #600c0c;
+  background-color: #ebbebe;
 }
 .list-group-item-info.list-group-item-action:hover, .list-group-item-info.list-group-item-action:focus {
-  color: #0c5460;
-  background-color: #abdde5;
+  color: #600c0c;
+  background-color: #e5abab;
 }
 .list-group-item-info.list-group-item-action.active {
   color: #fff;
-  background-color: #0c5460;
-  border-color: #0c5460;
+  background-color: #600c0c;
+  border-color: #600c0c;
 }
 
 .list-group-item-warning {
@@ -5216,31 +5216,31 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .list-group-item-light {
-  color: #818182;
-  background-color: #fdfdfe;
+  color: #828181;
+  background-color: #fefdfd;
 }
 .list-group-item-light.list-group-item-action:hover, .list-group-item-light.list-group-item-action:focus {
-  color: #818182;
+  color: #828181;
   background-color: #f6ecec;
 }
 .list-group-item-light.list-group-item-action.active {
   color: #fff;
-  background-color: #818182;
-  border-color: #818182;
+  background-color: #828181;
+  border-color: #828181;
 }
 
 .list-group-item-dark {
-  color: #1b1e21;
-  background-color: #c6c8ca;
+  color: #211b1b;
+  background-color: #cac6c6;
 }
 .list-group-item-dark.list-group-item-action:hover, .list-group-item-dark.list-group-item-action:focus {
-  color: #1b1e21;
-  background-color: #b9bbbe;
+  color: #211b1b;
+  background-color: #beb9b9;
 }
 .list-group-item-dark.list-group-item-action.active {
   color: #fff;
-  background-color: #1b1e21;
-  border-color: #1b1e21;
+  background-color: #211b1b;
+  border-color: #211b1b;
 }
 
 .close {
