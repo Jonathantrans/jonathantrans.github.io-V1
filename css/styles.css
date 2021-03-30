@@ -2646,8 +2646,8 @@ fieldset:disabled a.btn {
 }
 .btn-dark:hover {
   color: #fff;
-  background-color: #23272b;
-  border-color: #1d2124;
+  background-color: #2b2323;
+  border-color: #241d1d;
 }
 .btn-dark:focus, .btn-dark.focus {
   color: #fff;
@@ -2850,8 +2850,8 @@ fieldset:disabled a.btn {
 }
 .btn-outline-dark:hover {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+  background-color: #403434;
+  border-color: #403434;
 }
 .btn-outline-dark:focus, .btn-outline-dark.focus {
   box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5);
@@ -4957,9 +4957,9 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 .list-group-item-action:hover, .list-group-item-action:focus {
   z-index: 1;
-  color: #495057;
+  color: #574949;
   text-decoration: none;
-  background-color: #f8f9fa;
+  background-color: #faf8f8;
 }
 .list-group-item-action:active {
   color: #D1CDC7;
@@ -6072,7 +6072,7 @@ button.bg-light:focus {
 a.bg-dark:hover, a.bg-dark:focus,
 button.bg-dark:hover,
 button.bg-dark:focus {
-  background-color: #1d2124 !important;
+  background-color: #241d1d !important;
 }
 
 .bg-white {
@@ -9679,7 +9679,7 @@ button.bg-dark:focus {
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #66a2be !important;
+  color: #be6666 !important;
 }
 
 .text-secondary {
@@ -9687,7 +9687,7 @@ a.text-primary:hover, a.text-primary:focus {
 }
 
 a.text-secondary:hover, a.text-secondary:focus {
-  color: #003866 !important;
+  color: #660000 !important;
 }
 
 .text-success {
@@ -9703,7 +9703,7 @@ a.text-success:hover, a.text-success:focus {
 }
 
 a.text-info:hover, a.text-info:focus {
-  color: #0f6674 !important;
+  color: #740f0f !important;
 }
 
 .text-warning {
