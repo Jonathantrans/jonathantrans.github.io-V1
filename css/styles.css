@@ -25,7 +25,7 @@
   --info: #a6022b;
   --warning: #ffc107;
   --danger: #dc3545;
-  --light: #f8f9fa;
+  --light: #faf8f8;
   --dark: #000000;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
@@ -1678,14 +1678,14 @@ pre code {
 .table td {
   padding: 0.75rem;
   vertical-align: top;
-  border-top: 0.125rem solid #dee2e6;
+  border-top: 0.125rem solid #e6dede;
 }
 .table thead th {
   vertical-align: bottom;
-  border-bottom: 0.25rem solid #dee2e6;
+  border-bottom: 0.25rem solid #e6dede;
 }
 .table tbody + tbody {
-  border-top: 0.25rem solid #dee2e6;
+  border-top: 0.25rem solid #e6dede;
 }
 
 .table-sm th,
@@ -1694,11 +1694,11 @@ pre code {
 }
 
 .table-bordered {
-  border: 0.125rem solid #dee2e6;
+  border: 0.125rem solid #e6dede;
 }
 .table-bordered th,
 .table-bordered td {
-  border: 0.125rem solid #dee2e6;
+  border: 0.125rem solid #e6dede;
 }
 .table-bordered thead th,
 .table-bordered thead td {
@@ -1724,41 +1724,41 @@ pre code {
 .table-primary,
 .table-primary > th,
 .table-primary > td {
-  background-color: #e3eef3;
+  background-color: #f3e3e3;
 }
 .table-primary th,
 .table-primary td,
 .table-primary thead th,
 .table-primary tbody + tbody {
-  border-color: #e9cccf;
+  border-color: #f3e3e3;
 }
 
 .table-hover .table-primary:hover {
-  background-color: #e9cccf;
+  background-color: #f3e3e3;
 }
 .table-hover .table-primary:hover > td,
 .table-hover .table-primary:hover > th {
-  background-color: #e9cccf;
+  background-color: #f3e3e3;
 }
 
 .table-secondary,
 .table-secondary > th,
 .table-secondary > td {
-  background-color: #e9cccf;
+  background-color: #f3e3e3;
 }
 .table-secondary th,
 .table-secondary td,
 .table-secondary thead th,
 .table-secondary tbody + tbody {
-  border-color: #e9cccf;
+  border-color: #f3e3e3;
 }
 
 .table-hover .table-secondary:hover {
-  background-color: #e9cccf;
+  background-color: #f3e3e3;
 }
 .table-hover .table-secondary:hover > td,
 .table-hover .table-secondary:hover > th {
-  background-color: #e9cccf;
+  background-color: #f3e3e3;
 }
 
 .table-success,
@@ -1864,7 +1864,7 @@ pre code {
 .table-dark,
 .table-dark > th,
 .table-dark > td {
-  background-color: #c6c8ca;
+  background-color: #cac6c6;
 }
 .table-dark th,
 .table-dark td,
@@ -1902,8 +1902,8 @@ pre code {
 }
 .table .thead-light th {
   color: #495057;
-  background-color: #e9ecef;
-  border-color: #dee2e6;
+  background-color: #efe9e9;
+  border-color: #e6dede;
 }
 
 .table-dark {
@@ -1991,7 +1991,7 @@ pre code {
   color: #495057;
   background-color: #fff;
   background-clip: padding-box;
-  border: 0.125rem solid #ced4da;
+  border: 0.125rem solid #dacece;
   border-radius: 0.5rem;
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
@@ -2011,7 +2011,7 @@ pre code {
 .form-control:focus {
   color: #495057;
   background-color: #fff;
-  border-color: #f6f9fb;
+  border-color: #fbf6f6;
   outline: 0;
   box-shadow: 0 0 0 0.2rem rgba(156, 195, 213, 0.25);
 }
@@ -2020,7 +2020,7 @@ pre code {
   opacity: 1;
 }
 .form-control:disabled, .form-control[readonly] {
-  background-color: #e9ecef;
+  background-color: #efe9e9;
   opacity: 1;
 }
 
@@ -2431,8 +2431,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #D1CDC7;
-  background-color: #1D83C1;
-  border-color: #1D83C1;
+  background-color: #800020;
+  border-color: #800020;
 }
 .btn-primary:hover {
   color: #D1CDC7;
@@ -2441,8 +2441,8 @@ fieldset:disabled a.btn {
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #D1CDC7;
-  background-color: #1D83C1;
-  border-color: #1D83C1;
+  background-color: #800020;
+  border-color: #800020;
   box-shadow: 0 0 0 0.2rem rgba(138, 171, 187, 0.5);
 }
 .btn-primary.disabled, .btn-primary:disabled {
@@ -2466,13 +2466,13 @@ fieldset:disabled a.btn {
 }
 .btn-secondary:hover {
   color: #fff;
-  background-color: #004e8c;
-  border-color: #00477f;
+  background-color: #800026;
+  border-color: #800026;
 }
 .btn-secondary:focus, .btn-secondary.focus {
   color: #fff;
-  background-color: #004e8c;
-  border-color: #00477f;
+  background-color: #800026;
+  border-color: #800026;
   box-shadow: 0 0 0 0.2rem rgba(38, 122, 190, 0.5);
 }
 .btn-secondary.disabled, .btn-secondary:disabled {
@@ -2482,8 +2482,8 @@ fieldset:disabled a.btn {
 }
 .btn-secondary:not(:disabled):not(.disabled):active, .btn-secondary:not(:disabled):not(.disabled).active, .show > .btn-secondary.dropdown-toggle {
   color: #fff;
-  background-color: #00477f;
-  border-color: #004072;
+  background-color: #800026;
+  border-color: #800026;
 }
 .btn-secondary:not(:disabled):not(.disabled):active:focus, .btn-secondary:not(:disabled):not(.disabled).active:focus, .show > .btn-secondary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(38, 122, 190, 0.5);
