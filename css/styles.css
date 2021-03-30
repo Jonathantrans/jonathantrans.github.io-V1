@@ -4659,7 +4659,7 @@ a.badge-primary:focus, a.badge-primary.focus {
 }
 a.badge-secondary:hover, a.badge-secondary:focus {
   color: #fff;
-  background-color: #00477f;
+  background-color: #800026;
 }
 a.badge-secondary:focus, a.badge-secondary.focus {
   outline: 0;
@@ -9722,7 +9722,7 @@ a.text-danger:hover, a.text-danger:focus {
 }
 
 .text-light {
-  color: #f8f9fa !important;
+  color: #faf8f8 !important;
 }
 
 a.text-light:hover, a.text-light:focus {
@@ -9734,7 +9734,7 @@ a.text-light:hover, a.text-light:focus {
 }
 
 a.text-dark:hover, a.text-dark:focus {
-  color: #121416 !important;
+  color: #161212 !important;
 }
 
 .text-body {
@@ -9804,7 +9804,7 @@ a.text-dark:hover, a.text-dark:focus {
 
   pre,
 blockquote {
-    border: 0.125rem solid #adb5bd;
+    border: 0.125rem solid #bdadad;
     page-break-inside: avoid;
   }
 
