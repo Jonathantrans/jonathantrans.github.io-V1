@@ -5995,7 +5995,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #8f00cc !important;
+  background-color: #cc0000 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9994,11 +9994,11 @@ h3 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #8f00cc;
+    background: #cc0000;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
-    background: #8f00cc;
+    background: #cc0000;
   }
 
   #mainNav.navbar-shrink {
@@ -10077,7 +10077,7 @@ h3 {
   top: 1rem;
   font-size: 3rem;
   line-height: 3rem;
-  color: #8f00cc;
+  color: #cc0000;
   opacity: 1;
 }
 
@@ -10169,7 +10169,7 @@ form .row:first-child .floating-label-form-group {
   align-items: center;
   justify-content: center;
   font-size: 2rem;
-  background-color: #8f00cc;
+  background-color: #cc0000;
   color: #fff;
   border-radius: 100%;
 }
