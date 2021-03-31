@@ -2006,7 +2006,7 @@ pre code {
 }
 .form-control:-moz-focusring {
   color: transparent;
-  text-shadow: 0 0 0 #495057;
+  text-shadow: 0 0 0 #574949;
 }
 .form-control:focus {
   color: #495057;
@@ -3381,7 +3381,7 @@ input[type=button].btn-block {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #574949;
+  color: #d1cfcf;
   text-align: center;
   white-space: nowrap;
   background-color: #efe9e9;
