@@ -5995,8 +5995,8 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
-. -primary {
-  background-color: #171717 !important;
+.bg-primary {
+  background-color: #1c1c1c !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10078,7 +10078,7 @@ h3 {
   top: 1rem;
   font-size: 3rem;
   line-height: 3rem;
-  color: #940025;
+  color: #800026;
   opacity: 1;
 }
 
