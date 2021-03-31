@@ -18,7 +18,7 @@
   --cyan: #17a2b8;
   --white: #fff;
   --gray: #6c757d;
-  --gray-dark: #000000;
+  --gray-dark: #242424;
   --primary: #800020;
   --secondary: #a6022b;
   --success: #28a745;
@@ -26,7 +26,7 @@
   --warning: #ffc107;
   --danger: #dc3545;
   --light: #faf8f8;
-  --dark: #000000;
+  --dark: #242424;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -262,7 +262,7 @@ button,
 
 button:not(:disabled),
 [type=button]:not(:disabled),
-[type=reset]:not(:disabled),
+[type=reset]:not(:disabled),F
 [type=submit]:not(:disabled) {
   cursor: pointer;
 }
