@@ -9,5 +9,3 @@ Bugs to Update:
 - Potentially add page color split to a very dark gray and transition to black.
 - Add button color to be more visible.
 - Change hover text color from light gray to a darker gray or burgundy. 
-- Edit Python Code Camp Instructor
-- Change 2nd picture of Python Code Camp Instructor
