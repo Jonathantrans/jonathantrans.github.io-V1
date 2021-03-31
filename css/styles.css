@@ -4565,8 +4565,8 @@ input[type=button].btn-block {
 .page-item.active .page-link {
   z-index: 3;
   color: #fff;
-  background-color: #8f00cc;
-  border-color: #8f00cc;
+  background-color: #4b00cc;
+  border-color: #4b00cc;
 }
 .page-item.disabled .page-link {
   color: #6c757d;
@@ -5396,7 +5396,7 @@ a.close.disabled {
   flex-direction: column;
   width: 100%;
   pointer-events: auto;
-  background-color: #8f00cc;
+  background-color: #4b00cc;
   background-clip: padding-box;
   border: 0 solid rgba(0, 0, 0, 0.2);
   border-radius: 0.75rem;
