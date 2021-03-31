@@ -61,7 +61,7 @@ body {
   line-height: 1.5;
   color: #D1CDC7;
   text-align: left;
-  background-color: #1a1a1a;
+  background-color: #000000;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -1844,7 +1844,7 @@ pre code {
 .table-light,
 .table-light > th,
 .table-light > td {
-  background-color: #fdfdfe;
+  background-color: #fefdfd;
 }
 .table-light th,
 .table-light td,
@@ -1864,7 +1864,7 @@ pre code {
 .table-dark,
 .table-dark > th,
 .table-dark > td {
-  background-color: #cac6c6;
+  background-color: #e8e8e8;
 }
 .table-dark th,
 .table-dark td,
@@ -1874,7 +1874,7 @@ pre code {
 }
 
 .table-hover .table-dark:hover {
-  background-color: #beb9b9;
+  background-color: #e8e8e8;
 }
 .table-hover .table-dark:hover > td,
 .table-hover .table-dark:hover > th {
@@ -5996,7 +5996,7 @@ a.close.disabled {
 }
 
 . -primary {
-  background-color: #000000 !important;
+  background-color: #171717 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
