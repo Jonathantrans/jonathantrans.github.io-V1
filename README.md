@@ -3,9 +3,8 @@ Hello world! Thank you for taking the time to visit my website. It is in my best
 
 Bugs to Update:
 - Hover is light blue, need to change it to a dark gray.
+- Hover button weird color needs to be removed when clicked.
 - Projects 2 and 3 are missing.
 - Add Chess Game to Github.
-- Remove the X when clicking on projects. 
 - Potentially add page color split to a very dark gray and transition to black.
-- Add button color to be more visible.
 - Change hover text color from light gray to a darker gray or burgundy. 
