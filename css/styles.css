@@ -5995,7 +5995,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #cc0000 !important;
+  background-color: #009294 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -9994,7 +9994,7 @@ h3 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #cc0000;
+    background: #009294;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
@@ -10077,7 +10077,7 @@ h3 {
   top: 1rem;
   font-size: 3rem;
   line-height: 3rem;
-  color: #cc0000;
+  color: #009294;
   opacity: 1;
 }
 
