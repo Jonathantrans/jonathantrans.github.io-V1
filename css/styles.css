@@ -2009,7 +2009,7 @@ pre code {
   text-shadow: 0 0 0 #574949;
 }
 .form-control:focus {
-  color: #495057;
+  color: #574949;
   background-color: #fff;
   border-color: #fbf6f6;
   outline: 0;
@@ -2522,7 +2522,7 @@ fieldset:disabled a.btn {
 .btn-info {
   color: #fff;
   background-color: #b81717;
-  border-color: #b81717;
+  border-color:#b81717;
 }
 .btn-info:hover {
   color: #fff;
@@ -2537,13 +2537,13 @@ fieldset:disabled a.btn {
 }
 .btn-info.disabled, .btn-info:disabled {
   color: #fff;
-  background-color: #17a2b8;
-  border-color: #17a2b8;
+  background-color: #b81717;
+  border-color: #b81717;
 }
 .btn-info:not(:disabled):not(.disabled):active, .btn-info:not(:disabled):not(.disabled).active, .show > .btn-info.dropdown-toggle {
   color: #fff;
-  background-color: #117a8b;
-  border-color: #7f1010;
+  background-color: #8b1111;
+  border-color: #8b1111;
 }
 .btn-info:not(:disabled):not(.disabled):active:focus, .btn-info:not(:disabled):not(.disabled).active:focus, .show > .btn-info.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(58, 176, 195, 0.5);
@@ -2641,8 +2641,8 @@ fieldset:disabled a.btn {
 
 .btn-dark {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+  background-color: #403434;
+  border-color: #403434;
 }
 .btn-dark:hover {
   color: #fff;
@@ -2845,8 +2845,8 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-dark {
-  color: #343a40;
-  border-color: #343a40;
+  color: #403434;
+  border-color: #403434;
 }
 .btn-outline-dark:hover {
   color: #fff;
@@ -2857,13 +2857,13 @@ fieldset:disabled a.btn {
   box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5);
 }
 .btn-outline-dark.disabled, .btn-outline-dark:disabled {
-  color: #343a40;
+  color: #403434;
   background-color: transparent;
 }
 .btn-outline-dark:not(:disabled):not(.disabled):active, .btn-outline-dark:not(:disabled):not(.disabled).active, .show > .btn-outline-dark.dropdown-toggle {
   color: #fff;
-  background-color: #343a40;
-  border-color: #343a40;
+  background-color: #403434;
+  border-color: #403434;
 }
 .btn-outline-dark:not(:disabled):not(.disabled):active:focus, .btn-outline-dark:not(:disabled):not(.disabled).active:focus, .show > .btn-outline-dark.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(52, 58, 64, 0.5);
@@ -2883,7 +2883,7 @@ fieldset:disabled a.btn {
   box-shadow: none;
 }
 .btn-link:disabled, .btn-link.disabled {
-  color: #7d6c6c;
+  color: #00fc50;
   pointer-events: none;
 }
 
@@ -3567,7 +3567,7 @@ input[type=button].btn-block {
   left: -2rem;
   width: 0.5rem;
   height: 0.5rem;
-  background-color: #adb5bd;
+  background-color: #bdadad;
   border-radius: 0.5rem;
   transition: transform 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
@@ -3592,7 +3592,7 @@ input[type=button].btn-block {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #495057;
+  color: #574949;
   vertical-align: middle;
   background: #fff url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='4' height='5' viewBox='0 0 4 5'%3e%3cpath fill='%23343a40' d='M2 0L0 2h4zm0 5L0 3h4z'/%3e%3c/svg%3e") no-repeat right 0.75rem center/8px 10px;
   border: 0.125rem solid #dacece;
@@ -3882,13 +3882,13 @@ input[type=button].btn-block {
   border-color: #efe9e9 #efe9e9 #e6dede;
 }
 .nav-tabs .nav-link.disabled {
-  color: #6c757d;
+  color: #7d6c6c;
   background-color: transparent;
   border-color: transparent;
 }
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
-  color: #495057;
+  color: #574949;
   background-color: #fff;
   border-color: #e6dede #e6dede #fff;
 }
@@ -4570,7 +4570,7 @@ input[type=button].btn-block {
   border-color: #800026;
 }
 .page-item.disabled .page-link {
-  color: #6c757d;
+  color: #7d6d6c;
   pointer-events: none;
   cursor: auto;
   background-color: #fff;
@@ -4827,15 +4827,15 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .alert-info {
-  color: #0c5460;
+  color: #600c0c;
   background-color: #f1d1d1;
   border-color: #ebbebe;
 }
 .alert-info hr {
-  border-top-color: #abdde5;
+  border-top-color: #e5abab;
 }
 .alert-info .alert-link {
-  color: #062c33;
+  color: #330606;
 }
 
 .alert-warning {
@@ -4963,7 +4963,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 .list-group-item-action:active {
   color: #D1CDC7;
-  background-color: #e9ecef;
+  background-color: #efe9e9;
 }
 
 .list-group-item {
