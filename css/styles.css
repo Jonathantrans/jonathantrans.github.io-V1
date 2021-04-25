@@ -10220,11 +10220,10 @@ figure.snip1256 {
   font-family: 'Raleway', Arial, sans-serif;
   color: #fff;
   position: relative;
-  overflow: hidden;
   margin: 10px;
   min-width: 220px;
   max-width: 310px;
-  max-height: 600px;
+  max-height: 300px;
   width: 100%;
   color: #ffffff;
   text-align: left;
