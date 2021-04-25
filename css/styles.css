@@ -10222,9 +10222,9 @@ figure.snip1256 {
   position: relative;
   overflow: hidden;
   margin: 10px;
-  min-width: 1220px;
-  max-width: 1310px;
-  max-height: 1220px;
+  min-width: 220px;
+  max-width: 310px;
+  max-height: 600px;
   width: 100%;
   color: #ffffff;
   text-align: left;
