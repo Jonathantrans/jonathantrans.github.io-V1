@@ -10191,7 +10191,7 @@ form .row:first-child .floating-label-form-group {
 /* Global */
 .line-1{
     position: relative;
-    top: 50%;  
+    top: 150%;  
     width: 24em;
     margin: 0 auto;
     border-right: 2px solid rgba(255,255,255,.75);
