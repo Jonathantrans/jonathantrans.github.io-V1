@@ -10188,7 +10188,7 @@ form .row:first-child .floating-label-form-group {
 /* Global */
 .line-1{
     position: relative;
-    top: 50%;  
+    top: 10%;  
     width: 24em;
     margin: 0 auto;
     border-right: 2px solid rgba(255,255,255,.75);
@@ -10201,8 +10201,8 @@ form .row:first-child .floating-label-form-group {
 
 /* Animation */
 .anim-typewriter{
-  animation: typewriter 4s steps(44) 1s 1 normal both,
-             blinkTextCursor 500ms steps(44) infinite normal;
+  animation: typewriter 4s steps(31) 1s 1 normal both,
+             blinkTextCursor 500ms steps(31) infinite normal;
 }
 @keyframes typewriter{
   from{width: 0;}
