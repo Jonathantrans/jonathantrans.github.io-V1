@@ -10192,7 +10192,7 @@ form .row:first-child .floating-label-form-group {
     width: 15em;
     margin: 0 auto;
     border-right: 2px solid rgba(255,255,255,.75);
-    font-size: 200%;
+    font-size: 400%;
     text-align: center;
     white-space: nowrap;
     overflow: hidden;
