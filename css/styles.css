@@ -10303,10 +10303,9 @@ figure.snip1256.hover figcaption {
 .banner {
   background-image:
     url(https://free4kwallpapers.com/uploads/originals/2020/09/11/firewatch-dark-version-wallpaper.jpg);
-  height: 500px;
+  height: 700px;
   background-size:cover;
   background-position:center;
-/*   background-attachment: fixed; */
-  linear-gradient(to top right, rgba(228,221,221, 0.50) 10%, rgba(0,0,0, 0.80 ) 60%);
-/*   background-repeat: no-repeat; */
+  background: rgb(50,50,50);
+  background: linear-gradient(90deg, rgba(50,50,50,1) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0) 100%);
 }
