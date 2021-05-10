@@ -10303,7 +10303,7 @@ figure.snip1256.hover figcaption {
 .banner {
   background-image:
     url(https://i.imgur.com/BkpuzL1.jpg);
-  background-size:cover;
-  background-attachment:fixed;
-  background-repeat: no-repeat;
+  height: 1000px;
+/*   background-attachment:fixed; */
+/*   background-repeat: no-repeat; */
 }
