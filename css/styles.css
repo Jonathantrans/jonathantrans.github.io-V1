@@ -10307,5 +10307,5 @@ figure.snip1256.hover figcaption {
   background-size:cover;
   background-position:center;
   background: rgb(50,50,50);
-  background: linear-gradient(90deg, rgba(50,50,50,1) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0) 100%);
+  background: linear-gradient(180deg, rgba(50,50,50,1) 0%, rgba(0,0,0,0) 35%, rgba(0,0,0,0) 100%);
 }
