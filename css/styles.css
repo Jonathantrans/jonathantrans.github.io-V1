@@ -10304,6 +10304,7 @@ figure.snip1256.hover figcaption {
   background-image:
     url(https://i.ibb.co/nwGYmsg/japan-1.jpg);
   height: 700px;
+  
   background-size:cover;
   background-position:center;
   linear-gradient(to top right, rgba(228,221,221, 0.50) 10%, rgba(0,0,0, 0.80 ) 60%);
