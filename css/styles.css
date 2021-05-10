@@ -10304,7 +10304,7 @@ figure.snip1256.hover figcaption {
   background-image:
     url(https://hdqwalls.com/wallpapers/mac-osx-sierra-lu.jpg);
   height: 600px;
-  background-size:contain;
+  background-size:auto;
 /*   background-attachment:fixed; */
 /*   background-repeat: no-repeat; */
 }
