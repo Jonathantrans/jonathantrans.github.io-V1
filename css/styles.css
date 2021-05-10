@@ -10300,14 +10300,8 @@ figure.snip1256.hover figcaption {
   transition-delay: 0.2s;
 }
 
-
-
-
-.hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("japan.jpg");
-  height: 50%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  position: relative;
+.banner {
+  background-image:
+    url(https://i.imgur.com/BkpuzL1.jpg);
+  height: 48px;
 }
