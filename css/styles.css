@@ -10306,6 +10306,6 @@ figure.snip1256.hover figcaption {
   height: 1000px;
   background-size:cover;
   background-position:center;
-/*   background-attachment:fixed; */
+  background-attachment: fixed;
 /*   background-repeat: no-repeat; */
 }
