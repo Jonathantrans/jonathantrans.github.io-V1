@@ -85,6 +85,20 @@ const border = document.querySelector(".border");
 
 let header_height = header.offsetHeight;
 let section_height = section.offsetHeight;
+       
+       
+       
+       
+       
+       $(function() {
+  $('a[href*=#]').on('click', function(e) {
+    e.preventDefault();
+    $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
+  });
+});
+       
+       
+       
 
 window.addEventListener('scroll', () => {
     let scroll = window.pageYOffset;
