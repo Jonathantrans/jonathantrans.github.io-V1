@@ -10406,11 +10406,11 @@ figure.snip1256.hover figcaption {
     background: linear-gradient(to top left, transparent 50%, #012E95 52%);
 }
 .main-timeline .timeline:nth-child(4n+2) .timeline-year{ background: #3473FF; }
-.main-timeline .timeline:nth-child(4n+3) .timeline-content{ background: #22a009; }
+.main-timeline .timeline:nth-child(4n+3) .timeline-content{ background: #216b12; }
 .main-timeline .timeline:nth-child(4n+3) .timeline-content:before{
-    background: linear-gradient(to top left, transparent 50%, #123a0a 52%);
+    background: linear-gradient(to top left, transparent 50%, #143d0c 52%);
 }
-.main-timeline .timeline:nth-child(4n+3) .timeline-year{ background: #28b50c; }
+.main-timeline .timeline:nth-child(4n+3) .timeline-year{ background: #278215; }
 .main-timeline .timeline:nth-child(4n+4) .timeline-content{ background: #F61945; }
 .main-timeline .timeline:nth-child(4n+4) .timeline-content:before{
     background: linear-gradient(to top left, transparent 50%, #95001D 52%);
