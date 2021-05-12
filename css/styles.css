@@ -10332,7 +10332,7 @@ figure.snip1256.hover figcaption {
 }
 .main-timeline .timeline-content{
     color: #fff;
-    background: #f94419;
+    background: #800020;
     text-align: center;
     padding: 20px 20px 20px 160px;
     display: block;
@@ -10401,21 +10401,21 @@ figure.snip1256.hover figcaption {
     left: auto;
     right: 80px;
 }
-.main-timeline .timeline:nth-child(4n+2) .timeline-content{ background: #1862F7; }
+.main-timeline .timeline:nth-child(4n+2) .timeline-content{ background: #141414; }
 .main-timeline .timeline:nth-child(4n+2) .timeline-content:before{
-    background: linear-gradient(to top left, transparent 50%, #012E95 52%);
+    background: linear-gradient(to top left, transparent 50%, #000000 52%);
 }
-.main-timeline .timeline:nth-child(4n+2) .timeline-year{ background: #3473FF; }
-.main-timeline .timeline:nth-child(4n+3) .timeline-content{ background: #22a009; }
+.main-timeline .timeline:nth-child(4n+2) .timeline-year{ background: #262626; }
+.main-timeline .timeline:nth-child(4n+3) .timeline-content{ background: #141414; }
 .main-timeline .timeline:nth-child(4n+3) .timeline-content:before{
-    background: linear-gradient(to top left, transparent 50%, #123a0a 52%);
+    background: linear-gradient(to top left, transparent 50%, #000000 52%);
 }
-.main-timeline .timeline:nth-child(4n+3) .timeline-year{ background: #28b50c; }
-.main-timeline .timeline:nth-child(4n+4) .timeline-content{ background: #F61945; }
+.main-timeline .timeline:nth-child(4n+3) .timeline-year{ background: #262626; }
+.main-timeline .timeline:nth-child(4n+4) .timeline-content{ background: #141414; }
 .main-timeline .timeline:nth-child(4n+4) .timeline-content:before{
-    background: linear-gradient(to top left, transparent 50%, #95001D 52%);
+    background: linear-gradient(to top left, transparent 50%, #000000 52%);
 }
-.main-timeline .timeline:nth-child(4n+4) .timeline-year{ background: #FE3559; }
+.main-timeline .timeline:nth-child(4n+4) .timeline-year{ background: #262626; }
 @media screen and (max-width:990px){
     .main-timeline .timeline{ width: calc(50% + 120px); }
 }
