@@ -10401,21 +10401,21 @@ figure.snip1256.hover figcaption {
     left: auto;
     right: 80px;
 }
-.main-timeline .timeline:nth-child(4n+2) .timeline-content{ background: #000000; }
+.main-timeline .timeline:nth-child(4n+2) .timeline-content{ background: #212121; }
 .main-timeline .timeline:nth-child(4n+2) .timeline-content:before{
-    background: linear-gradient(to top left, transparent 50%, #0f0f0f 52%);
+    background: linear-gradient(to top left, transparent 50%, #000000 52%);
 }
-.main-timeline .timeline:nth-child(4n+2) .timeline-year{ background: #212121; }
-.main-timeline .timeline:nth-child(4n+3) .timeline-content{ background: #000000; }
+.main-timeline .timeline:nth-child(4n+2) .timeline-year{ background: #292929; }
+.main-timeline .timeline:nth-child(4n+3) .timeline-content{ background: #212121; }
 .main-timeline .timeline:nth-child(4n+3) .timeline-content:before{
-    background: linear-gradient(to top left, transparent 50%, #0f0f0f 52%);
+    background: linear-gradient(to top left, transparent 50%, #000000 52%);
 }
-.main-timeline .timeline:nth-child(4n+3) .timeline-year{ background: #212121; }
-.main-timeline .timeline:nth-child(4n+4) .timeline-content{ background: #000000; }
+.main-timeline .timeline:nth-child(4n+3) .timeline-year{ background: #292929; }
+.main-timeline .timeline:nth-child(4n+4) .timeline-content{ background: #212121; }
 .main-timeline .timeline:nth-child(4n+4) .timeline-content:before{
-    background: linear-gradient(to top left, transparent 50%, #0f0f0f 52%);
+    background: linear-gradient(to top left, transparent 50%, #000000 52%);
 }
-.main-timeline .timeline:nth-child(4n+4) .timeline-year{ background: #212121; }
+.main-timeline .timeline:nth-child(4n+4) .timeline-year{ background: #292929; }
 @media screen and (max-width:990px){
     .main-timeline .timeline{ width: calc(50% + 120px); }
 }
