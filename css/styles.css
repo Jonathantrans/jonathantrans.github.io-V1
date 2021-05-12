@@ -10341,7 +10341,7 @@ figure.snip1256.hover figcaption {
 .main-timeline .timeline-content:hover{ text-decoration: none; }
 .main-timeline .timeline-content:before{
     content: "";
-    background: linear-gradient(to top left, transparent 50%, #952000 52%);
+    background: linear-gradient(to top left, transparent 50%, #4a1000 52%);
     width: 60px;
     height: 20px;
     position: absolute;
@@ -10361,7 +10361,7 @@ figure.snip1256.hover figcaption {
     top: 50%;
 }
 .main-timeline .timeline-year{
-    background: #ff6134;
+    background: #952000;
     font-size: 35px;
     font-weight: 600;
     line-height: 110px;
