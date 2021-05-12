@@ -5,6 +5,21 @@
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+
+
+@import "compass/css3";
+$grid-background-color:             #0F0F0F;
+$grid-line-color:                   #000;
+$grid-width:                        100px;
+$timeline-events-no:                5;
+$timeline-events-line-height:       8px;
+$timeline-years-no:                 8;
+
+
+
+
+
 :root {
   --blue: #800020;
   --indigo: #6610f2;
