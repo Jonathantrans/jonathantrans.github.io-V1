@@ -107,9 +107,24 @@ window.addEventListener('scroll', () => {
     image_container.style.transform = `translateY(${scroll / (section_height + sectionY.top) * -50 + 50}px)`;
 
     border.style.width = `${scroll / (sectionY.top + section_height) * 30}%`;
-})  
-  })(jQuery); // End of use strict
-
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 
 
@@ -253,7 +268,7 @@ const NeofetchOutput = () => {
 	return (
 		<NeofetchOutputContainer>
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="300.000000pt" height="300.000000pt" viewBox="0 0 300.000000 300.000000"
+ width="300.000000pt" height="300.000000pt" viewBox="0 0 300.000000 500.000000"
  preserveAspectRatio="xMidYMid meet">
 <g transform="translate(0.000000,300.000000) scale(0.100000,-0.100000)"
 fill="#ffffff" stroke="none">
@@ -1530,3 +1545,26 @@ const App = () => (
 
 ReactDOM.render(<App/>, document.querySelector('.App'));
    
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+})  
+  })(jQuery); // End of use strict
