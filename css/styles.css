@@ -10310,150 +10310,111 @@ figure.snip1256.hover figcaption {
   
 }
 
-
-
-
-
-
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,700);
-@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
-figure.snip1477 {
-  font-family: 'Raleway', Arial, sans-serif;
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+.snip1584 {
+  font-family: 'Raleway', sans-serif;
   position: relative;
+  display: inline-block;
   overflow: hidden;
   margin: 10px;
   min-width: 230px;
   max-width: 315px;
   width: 100%;
   color: #ffffff;
-  text-align: center;
   font-size: 16px;
-  background-color: #000000;
+  text-align: left;
 }
-figure.snip1477 *,
-figure.snip1477 *:before,
-figure.snip1477 *:after {
+.snip1584 * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  -webkit-transition: all 0.55s ease;
-  transition: all 0.55s ease;
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
 }
-figure.snip1477 img {
+.snip1584:before {
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+  left: 10px;
+  right: 10px;
+  top: 100%;
+  content: '';
+  background-color: rgba(51, 51, 51, 0.9);
+  -webkit-transition: all 0.25s ease;
+  transition: all 0.25s ease;
+  -webkit-transition-delay: 0.25s;
+  transition-delay: 0.25s;
+}
+.snip1584 img {
+  vertical-align: top;
   max-width: 100%;
   backface-visibility: hidden;
-  vertical-align: top;
-  opacity: 0.9;
 }
-figure.snip1477 .title {
+.snip1584 figcaption {
   position: absolute;
-  top: 58%;
-  left: 25px;
-  padding: 5px 10px 10px;
-}
-figure.snip1477 .title:before,
-figure.snip1477 .title:after {
-  height: 2px;
-  width: 400px;
-  position: absolute;
-  content: '';
-  background-color: #ffffff;
-}
-figure.snip1477 .title:before {
   top: 0;
-  left: 10px;
-  -webkit-transform: translateX(100%);
-  transform: translateX(100%);
-}
-figure.snip1477 .title:after {
   bottom: 0;
-  right: 10px;
-  -webkit-transform: translateX(-100%);
-  transform: translateX(-100%);
-}
-figure.snip1477 .title div:before,
-figure.snip1477 .title div:after {
-  width: 2px;
-  height: 300px;
-  position: absolute;
-  content: '';
-  background-color: #ffffff;
-}
-figure.snip1477 .title div:before {
-  top: 10px;
-  right: 0;
-  -webkit-transform: translateY(100%);
-  transform: translateY(100%);
-}
-figure.snip1477 .title div:after {
-  bottom: 10px;
   left: 0;
+  right: 0;
+  z-index: 1;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.snip1584 h3,
+.snip1584 h5 {
+  margin: 0;
+  opacity: 0;
+  letter-spacing: 1px;
+}
+.snip1584 h3 {
   -webkit-transform: translateY(-100%);
   transform: translateY(-100%);
-}
-figure.snip1477 h2,
-figure.snip1477 h4 {
-  margin: 0;
   text-transform: uppercase;
-}
-figure.snip1477 h2 {
   font-weight: 400;
+  -webkit-transition-delay: 0.05s;
+  transition-delay: 0.05s;
+  margin-bottom: 5px;
 }
-figure.snip1477 h4 {
-  display: block;
-  font-weight: 700;
-  background-color: #ffffff;
-  padding: 5px 10px;
-  color: #000000;
+.snip1584 h5 {
+  font-weight: normal;
+  background-color: #ae895d;
+  padding: 3px 10px;
+  -webkit-transform: translateY(-100%);
+  transform: translateY(-100%);
+  -webkit-transition-delay: 0s;
+  transition-delay: 0s;
 }
-figure.snip1477 figcaption {
-  position: absolute;
-  bottom: 42%;
-  left: 25px;
-  text-align: left;
-  opacity: 0;
-  padding: 5px 60px 5px 10px;
-  font-size: 0.8em;
-  font-weight: 500;
-  letter-spacing: 1.5px;
-}
-figure.snip1477 figcaption p {
-  margin: 0;
-}
-figure.snip1477 a {
+.snip1584 a {
   position: absolute;
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
+  z-index: 1;
 }
-figure.snip1477:hover img,
-figure.snip1477.hover img {
-  zoom: 1;
-  filter: alpha(opacity=35);
-  -webkit-opacity: 0.35;
-  opacity: 0.35;
+.snip1584:hover:before,
+.snip1584.hover:before {
+  top: 10px;
+  -webkit-transition-delay: 0s;
+  transition-delay: 0s;
 }
-figure.snip1477:hover .title:before,
-figure.snip1477.hover .title:before,
-figure.snip1477:hover .title:after,
-figure.snip1477.hover .title:after,
-figure.snip1477:hover .title div:before,
-figure.snip1477.hover .title div:before,
-figure.snip1477:hover .title div:after,
-figure.snip1477.hover .title div:after {
-  -webkit-transform: translate(0, 0);
-  transform: translate(0, 0);
-}
-figure.snip1477:hover .title:before,
-figure.snip1477.hover .title:before,
-figure.snip1477:hover .title:after,
-figure.snip1477.hover .title:after {
-  -webkit-transition-delay: 0.15s;
-  transition-delay: 0.15s;
-}
-figure.snip1477:hover figcaption,
-figure.snip1477.hover figcaption {
+.snip1584:hover h3,
+.snip1584.hover h3,
+.snip1584:hover h5,
+.snip1584.hover h5 {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
   opacity: 1;
+}
+.snip1584:hover h3,
+.snip1584.hover h3 {
+  -webkit-transition-delay: 0.3s;
+  transition-delay: 0.3s;
+}
+.snip1584:hover h5,
+.snip1584.hover h5 {
   -webkit-transition-delay: 0.2s;
   transition-delay: 0.2s;
 }
+
