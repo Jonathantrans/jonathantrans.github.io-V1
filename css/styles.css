@@ -10309,3 +10309,7 @@ figure.snip1256.hover figcaption {
   linear-gradient(to top right, rgba(228,221,221, 0.50) 10%, rgba(0,0,0, 0.80 ) 60%);
   
 }
+
+.filter-shadow {
+  filter: drop-shadow(.75em .75em .5em);
+}
