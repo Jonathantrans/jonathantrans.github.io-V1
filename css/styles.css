@@ -10362,10 +10362,19 @@ figure.snip1256.hover figcaption {
   justify-content: center;
 }
 .snip1584 h3,
+.snip1584 h6,
 .snip1584 h5 {
   margin: 0;
   opacity: 0;
   letter-spacing: 1px;
+}
+.snip1584 h6 {
+  font-weight: normal;
+  vertical-align: middle
+-webkit-transform: translateY(-100%);
+  transform: translateY(-100%);
+  -webkit-transition-delay: 0s;
+  transition-delay: 0s;
 }
 .snip1584 h3 {
   -webkit-transform: translateY(-100%);
@@ -10378,7 +10387,7 @@ figure.snip1256.hover figcaption {
 }
 .snip1584 h5 {
   font-weight: normal;
-  background-color: #ae895d;
+  background-color: #800020;
   padding: 3px 10px;
   -webkit-transform: translateY(-100%);
   transform: translateY(-100%);
@@ -10399,6 +10408,8 @@ figure.snip1256.hover figcaption {
   -webkit-transition-delay: 0s;
   transition-delay: 0s;
 }
+.snip1584:hover h6,
+.snip1584.hover h6,
 .snip1584:hover h3,
 .snip1584.hover h3,
 .snip1584:hover h5,
@@ -10406,6 +10417,11 @@ figure.snip1256.hover figcaption {
   -webkit-transform: translateY(0);
   transform: translateY(0);
   opacity: 1;
+}
+.snip1584:hover h6,
+.snip1584.hover h6 {
+  -webkit-transition-delay: 0.2s;
+  transition-delay: 0.2s;
 }
 .snip1584:hover h3,
 .snip1584.hover h3 {
@@ -10416,303 +10432,4 @@ figure.snip1256.hover figcaption {
 .snip1584.hover h5 {
   -webkit-transition-delay: 0.2s;
   transition-delay: 0.2s;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@import url(https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,500,800);
-figure.snip1321 {
-  font-family: 'Raleway', Arial, sans-serif;
-  position: relative;
-  overflow: hidden;
-  margin: 10px;
-  min-width: 230px;
-  max-width: 315px;
-  width: 100%;
-  color: #000000;
-  text-align: center;
-  -webkit-perspective: 50em;
-  perspective: 50em;
-}
-figure.snip1321 * {
-  -webkit-box-sizing: padding-box;
-  box-sizing: padding-box;
-  -webkit-transition: all 0.2s ease-out;
-  transition: all 0.2s ease-out;
-}
-figure.snip1321 img {
-  max-width: 100%;
-  vertical-align: top;
-}
-figure.snip1321 figcaption {
-  top: 50%;
-  left: 20px;
-  right: 20px;
-  position: absolute;
-  opacity: 0;
-  z-index: 1;
-}
-figure.snip1321 h2,
-figure.snip1321 h4 {
-  margin: 0;
-}
-figure.snip1321 h2 {
-  font-weight: 600;
-}
-figure.snip1321 h4 {
-  font-weight: 400;
-  text-transform: uppercase;
-}
-figure.snip1321 i {
-  font-size: 32px;
-}
-figure.snip1321:after {
-  background-color: #ffffff;
-  position: absolute;
-  content: "";
-  display: block;
-  top: 20px;
-  left: 20px;
-  right: 20px;
-  bottom: 20px;
-  -webkit-transition: all 0.4s ease-in-out;
-  transition: all 0.4s ease-in-out;
-  -webkit-transform: rotateX(-90deg);
-  transform: rotateX(-90deg);
-  -webkit-transform-origin: 50% 50%;
-  -ms-transform-origin: 50% 50%;
-  transform-origin: 50% 50%;
-  opacity: 0;
-}
-figure.snip1321 a {
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  position: absolute;
-  z-index: 1;
-}
-figure.snip1321:hover figcaption,
-figure.snip1321.hover figcaption {
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
-  opacity: 1;
-  -webkit-transition-delay: 0.2s;
-  transition-delay: 0.2s;
-}
-figure.snip1321:hover:after,
-figure.snip1321.hover:after {
-  -webkit-transform: rotateX(0);
-  transform: rotateX(0);
-  opacity: 0.9;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro);
-@import url(https://fonts.googleapis.com/css?family=Teko:700);
-.snip1543 {
-  background-color: #fff;
-  color: #ffffff;
-  font-family: 'Source Sans Pro', sans-serif;
-  font-size: 16px;
-  margin: 10px;
-  max-width: 315px;
-  min-width: 230px;
-  overflow: hidden;
-  position: relative;
-  text-align: left;
-  width: 100%;
-  -webkit-transform: translateZ(0);
-  transform: translateZ(0);
-}
-
-.snip1543 *,
-.snip1543 *:before,
-.snip1543 *:after {
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-  -webkit-transition: all 0.45s ease;
-  transition: all 0.45s ease;
-}
-
-.snip1543 img {
-  backface-visibility: hidden;
-  max-width: 100%;
-  vertical-align: top;
-}
-
-.snip1543:before,
-.snip1543:after {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  content: '';
-  background-color: #b81212;
-  opacity: 0.5;
-  -webkit-transition: all 0.45s ease;
-  transition: all 0.45s ease;
-}
-
-.snip1543:before {
-  -webkit-transform: skew(30deg) translateX(-80%);
-  transform: skew(30deg) translateX(-80%);
-}
-
-.snip1543:after {
-  -webkit-transform: skew(-30deg) translateX(-70%);
-  transform: skew(-30deg) translateX(-70%);
-}
-
-.snip1543 figcaption {
-  position: absolute;
-  top: 0px;
-  bottom: 0px;
-  left: 0px;
-  right: 0px;
-  z-index: 1;
-  bottom: 0;
-  padding: 25px 40% 25px 20px;
-}
-
-.snip1543 figcaption:before,
-.snip1543 figcaption:after {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background-color: #b81212;
-  box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
-  content: '';
-  opacity: 0.5;
-  z-index: -1;
-}
-
-.snip1543 figcaption:before {
-  -webkit-transform: skew(30deg) translateX(-100%);
-  transform: skew(30deg) translateX(-100%);
-}
-
-.snip1543 figcaption:after {
-  -webkit-transform: skew(-30deg) translateX(-90%);
-  transform: skew(-30deg) translateX(-90%);
-}
-
-.snip1543 h3,
-.snip1543 p {
-  margin: 0;
-  opacity: 0;
-  letter-spacing: 1px;
-}
-
-.snip1543 h3 {
-  font-family: 'Teko', sans-serif;
-  font-size: 36px;
-  font-weight: 700;
-  line-height: 1em;
-  text-transform: uppercase;
-}
-
-.snip1543 p {
-  font-size: 0.9em;
-}
-
-.snip1543 a {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  z-index: 1;
-}
-
-.snip1543:hover h3,
-.snip1543.hover h3,
-.snip1543:hover p,
-.snip1543.hover p {
-  -webkit-transform: translateY(0);
-  transform: translateY(0);
-  opacity: 0.9;
-  -webkit-transition-delay: 0.2s;
-  transition-delay: 0.2s;
-}
-
-.snip1543:hover:before,
-.snip1543.hover:before {
-  -webkit-transform: skew(30deg) translateX(-20%);
-  transform: skew(30deg) translateX(-20%);
-  -webkit-transition-delay: 0.05s;
-  transition-delay: 0.05s;
-}
-
-.snip1543:hover:after,
-.snip1543.hover:after {
-  -webkit-transform: skew(-30deg) translateX(-10%);
-  transform: skew(-30deg) translateX(-10%);
-}
-
-.snip1543:hover figcaption:before,
-.snip1543.hover figcaption:before {
-  -webkit-transform: skew(30deg) translateX(-40%);
-  transform: skew(30deg) translateX(-40%);
-  -webkit-transition-delay: 0.15s;
-  transition-delay: 0.15s;
-}
-
-.snip1543:hover figcaption:after,
-.snip1543.hover figcaption:after {
-  -webkit-transform: skew(-30deg) translateX(-30%);
-  transform: skew(-30deg) translateX(-30%);
-  -webkit-transition-delay: 0.1s;
-  transition-delay: 0.1s;
 }
