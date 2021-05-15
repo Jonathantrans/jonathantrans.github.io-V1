@@ -10319,12 +10319,7 @@ figure.snip1256.hover figcaption {
     overflow: hidden;
 }
 
-.image-card {
-  position: absolute;
-  top: 0;
-  left: 0;
-  
-}
+.image-card {}
 
 .image-card img {
   -webkit-transition: 0.4s ease;
