@@ -10311,6 +10311,7 @@ figure.snip1256.hover figcaption {
 }
 
 .zoom-effect-container {
+  position: static;
     width: 650px;
     height: 919px;
     margin: 0 auto;
