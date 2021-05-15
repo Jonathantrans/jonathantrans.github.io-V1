@@ -10311,8 +10311,6 @@ figure.snip1256.hover figcaption {
 }
 
 .zoom-effect-container {
-    float: left;
-    position: relative;
     width: 650px;
     height: 919px;
     margin: 0 auto;
