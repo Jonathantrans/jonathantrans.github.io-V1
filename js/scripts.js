@@ -3,11 +3,8 @@
     * Copyright 2013-2020 Start Bootstrap
     * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
     */
-  $(".hover").mouseleave(
-    function () {
-      $(this).removeClass("hover");
-    }
-  );
+  (function($) {
+    "use strict"; // Start of use strict
        
     // Smooth scrolling using jQuery easing
     $('a.js-scroll-trigger[href*="#"]:not([href="#"])').click(function() {
@@ -102,5 +99,4 @@ window.addEventListener('scroll', () => {
     image_container.style.transform = `translateY(${scroll / (section_height + sectionY.top) * -50 + 50}px)`;
 
     border.style.width = `${scroll / (sectionY.top + section_height) * 30}%`;	
-})  
   })(jQuery); // End of use strict
