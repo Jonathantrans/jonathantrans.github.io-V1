@@ -10201,7 +10201,7 @@ form .row:first-child .floating-label-form-group {
 
 /* Animation */
 .anim-typewriter{
-  animation: typewriter 2s steps(44) 1s 1 normal both,
+  animation: typewriter 4s steps(44) 1s 1 normal both,
              blinkTextCursor 1000ms steps(44) infinite normal;
 }
 @keyframes typewriter{
