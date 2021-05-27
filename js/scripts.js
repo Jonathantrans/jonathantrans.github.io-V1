@@ -3,6 +3,12 @@
     * Copyright 2013-2020 Start Bootstrap
     * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
     */
+
+tippy('btn-1')
+tippy('btn-2')
+tippy('btn-3')
+tippy('btn-4')
+
     (function($) {
     "use strict"; // Start of use strict
   
