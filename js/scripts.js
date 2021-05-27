@@ -85,13 +85,6 @@ const border = document.querySelector(".border");
 
 let header_height = header.offsetHeight;
 let section_height = section.offsetHeight;
-
-import Scrollbar from 'smooth-scrollbar';
-var options = {
-  'damping':0.05
-}
-
-Scrollbar.init(document.querySelector('#my-scrollbar'));
 	    
 	    
 window.addEventListener('scroll', () => {
