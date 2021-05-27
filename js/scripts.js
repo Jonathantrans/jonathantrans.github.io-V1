@@ -4,10 +4,7 @@
     * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
     */
 
-tippy('btn-1')
-tippy('btn-2')
-tippy('btn-3')
-tippy('btn-4')
+tippy('btn-r')
 
     (function($) {
     "use strict"; // Start of use strict
