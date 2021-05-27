@@ -3,9 +3,6 @@
     * Copyright 2013-2020 Start Bootstrap
     * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/master/LICENSE)
     */
-
-tippy('button')
-
     (function($) {
     "use strict"; // Start of use strict
   
@@ -88,8 +85,8 @@ const border = document.querySelector(".border");
 
 let header_height = header.offsetHeight;
 let section_height = section.offsetHeight;
-       
-      
+
+	    
 window.addEventListener('scroll', () => {
     let scroll = window.pageYOffset;
     let sectionY = section.getBoundingClientRect();
