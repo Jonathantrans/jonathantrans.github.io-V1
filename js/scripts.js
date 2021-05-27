@@ -112,3 +112,10 @@ window.addEventListener('scroll', () => {
   })(jQuery); // End of use strict
 
 tippy('button')
+
+import Scrollbar from 'smooth-scrollbar';
+var options = {
+  'damping':0.05
+}
+
+Scrollbar.init(document.querySelector('#my-scrollbar'));
