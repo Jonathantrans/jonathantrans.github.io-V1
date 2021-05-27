@@ -10362,6 +10362,30 @@ figure.snip1256.hover figcaption {
 .n-a {
   transition: none; }
 
+.btn-1 {
+  background: #940025;
+  box-shadow: 0px 3px 0px #6b011c; }
+.n-a {
+  transition: none; }
+
+.btn-2 {
+  background: #940025;
+  box-shadow: 0px 3px 0px #6b011c; }
+.n-a {
+  transition: none; }
+
+.btn-3 {
+  background: #940025;
+  box-shadow: 0px 3px 0px #6b011c; }
+.n-a {
+  transition: none; }
+
+.btn-4 {
+  background: #940025;
+  box-shadow: 0px 3px 0px #6b011c; }
+.n-a {
+  transition: none; }
+
 span.wave {
   animation-name: wave-animation;
   animation-duration: 2.5s;
