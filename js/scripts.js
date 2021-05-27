@@ -110,3 +110,5 @@ window.addEventListener('scroll', () => {
 	
 })  
   })(jQuery); // End of use strict
+
+tippy('button')
