@@ -10420,20 +10420,6 @@ a {
   color: #eee;
 }
 
-ul {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-wrap: wrap;
-  margin: 1rem;
-  list-style-type: none;
-  font-size: 2rem;
-}
-
-ul li {
-  padding: 1rem;
-}
-
 .fab {
   font-size: 3rem;
 }
