@@ -10412,7 +10412,7 @@ span.wave {
     width: 100%;
     position: absolute;
     margin: auto;
-      top: 100px;
+      top: 0px;
   text-align: center;
 }
 
