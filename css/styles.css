@@ -10410,12 +10410,10 @@ span.wave {
 
 .social-links {
     width: 100%;
-    position: fixed;
+    position: absolute;
     margin: auto;
-      top: 40px;
+      top: 100px;
   text-align: center;
-    align-items: center;
-    justify-content: center;
 }
 
 .social-links a img {
