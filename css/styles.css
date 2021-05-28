@@ -10407,3 +10407,58 @@ span.wave {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
 }
+
+
+
+
+
+p,
+a {
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 2rem;
+  color: #eee;
+}
+
+ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 1rem;
+  list-style-type: none;
+  font-size: 2rem;
+}
+
+ul li {
+  padding: 1rem;
+}
+
+.fab {
+  font-size: 3rem;
+}
+
+.fa-youtube,
+.fa-github{
+  transition: 0.4s;
+  cursor: pointer;
+}
+
+.fa-youtube:hover,
+.fa-youtube:focus {
+  color: #df2426;
+  transform: scale(1.1);
+}
+
+.fa-github:hover,
+.fa-github:focus {
+  color: #000;
+  transform: scale(1.1);
+}
+
+.fa-github:hover,
+.fa-github:focus {
+  color: #000;
+  transform: scale(1.1);
+}
+
