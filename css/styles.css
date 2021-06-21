@@ -10300,16 +10300,6 @@ figure.snip1256.hover figcaption {
   transition-delay: 0.2s;
 }
 
-.banner {
-  background-image:
-    url(https://i.ibb.co/mFQzC1f/japan-5.jpg);
-  height: 800px;
-  background-size:cover;
-  background-position:center;
-  linear-gradient(to top right, rgba(228,221,221, 0.50) 10%, rgba(0,0,0, 0.80 ) 60%);
-  
-}
-
 .zoom-effect-container {
   position: static;
     width: 650px;
