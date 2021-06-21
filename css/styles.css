@@ -10411,15 +10411,3 @@ span.wave {
 .img-responsive {
   width: 100% !important;
 }
-
-.zoom img {
-  -webkit-transform: scale(1);
-  transform: scale(1);
-  -webkit-transition: .3s ease-in-out;
-  transition: .3s ease-in-out;
-    }
-
-.zoom img:hover {
-	-webkit-transform: scale(1.3);
-  transform: scale(1.3);
-   }
