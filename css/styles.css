@@ -10408,3 +10408,6 @@ span.wave {
     box-sizing: border-box;
 }
 
+.img-responsive {
+  width: 100% !important;
+}
